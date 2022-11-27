@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋   
+
+깃허브를 많이 안 써서 배워가는 중입니다.   
 
 <!--
 **Blackwolf7704/Blackwolf7704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
